@@ -1,0 +1,3 @@
+export const SEARCHQUERY = "SEARCHQUERY";
+export const ALLSEARCHWORD = "ALLSEARCHWORD";
+export const ADDWORD = "ADDWORD";

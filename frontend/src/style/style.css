@@ -1,0 +1,36 @@
+.search-bar {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.card-body {
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.all-search-word {
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 50px;
+    background-color: rgb(226, 224, 224) !important;
+}
+
+
+.add-dialog {
+    margin-top: 20px;
+}
+
+.button-dialog {
+    margin-top: 40px;
+    margin-left: 120px;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
